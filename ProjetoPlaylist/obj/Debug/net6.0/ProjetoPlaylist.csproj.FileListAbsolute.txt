@@ -1,0 +1,14 @@
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\bin\Debug\net6.0\ProjetoPlaylist.exe
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\bin\Debug\net6.0\ProjetoPlaylist.deps.json
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\bin\Debug\net6.0\ProjetoPlaylist.runtimeconfig.json
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\bin\Debug\net6.0\ProjetoPlaylist.dll
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\bin\Debug\net6.0\ProjetoPlaylist.pdb
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\obj\Debug\net6.0\ProjetoPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\obj\Debug\net6.0\ProjetoPlaylist.AssemblyInfoInputs.cache
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\obj\Debug\net6.0\ProjetoPlaylist.AssemblyInfo.cs
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\obj\Debug\net6.0\ProjetoPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\obj\Debug\net6.0\ProjetoPlaylist.dll
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\obj\Debug\net6.0\refint\ProjetoPlaylist.dll
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\obj\Debug\net6.0\ProjetoPlaylist.pdb
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\obj\Debug\net6.0\ProjetoPlaylist.genruntimeconfig.cache
+C:\Users\Gerlane\Desktop\Projeto OO\ProjetoPlaylist\ProjetoPlaylist\obj\Debug\net6.0\ref\ProjetoPlaylist.dll
