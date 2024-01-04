@@ -24,7 +24,7 @@ namespace _ProjetoPlaylist
              musica1.ExibirFixaTecnica();
              musica2.ExibirFixaTecnica();*/
 
-            Banda coldplay = new Banda("Coldplay");
+            /*Banda coldplay = new Banda("Coldplay");
 
             Album albumDoColdplay = new Album("Paradise");
 
@@ -57,7 +57,22 @@ namespace _ProjetoPlaylist
 
             albumDoColdplay.ExibirMusicas();
             coldplay.AdicionarAlbum(albumDoColdplay);
-            coldplay.ExibirDiscografia();
+            coldplay.ExibirDiscografia();*/
+
+            Episodio ep1 = new(45, 1, "Técnicas de facilitação");
+            ep1.AdicionarConvidados("Jonny");
+            ep1.AdicionarConvidados("Aline");
+            Console.WriteLine(ep1.Resumo);
+
+            Episodio ep2 = new(35, 2, "Técnicas de facilitação");
+            ep2.AdicionarConvidados("Leandro");
+            ep2.AdicionarConvidados("Priscila");
+
+            Podcast podcast = new("Podcast de natal", "Diego");
+            podcast.AdicionarEpisodio(ep1);
+            podcast.AdicionarEpisodio(ep2);
+            podcast.ExibirDetalhes();
+
         }
     }
 }
