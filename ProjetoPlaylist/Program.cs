@@ -68,7 +68,7 @@ namespace _ProjetoPlaylist
             ep2.AdicionarConvidados("Leandro");
             ep2.AdicionarConvidados("Priscila");
 
-            Podcast podcast = new("Podcast de natal", "Diego");
+            Podcast podcast = new(88, "Diego");
             podcast.AdicionarEpisodio(ep1);
             podcast.AdicionarEpisodio(ep2);
             podcast.ExibirDetalhes();
